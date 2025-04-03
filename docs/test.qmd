@@ -1,0 +1,13 @@
+---
+title: "hey oh my"
+format: html
+editor: visual
+---
+
+## oh hey yallj 
+
+oh mhe ods fjp
+
+```{r}
+2+2
+```
